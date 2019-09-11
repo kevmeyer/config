@@ -3,8 +3,8 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH="${HOME}/.oh-my-zsh"
-export EDITOR="/usr/bin/vim"
-export VISUAL="/usr/bin/vim"
+export EDITOR="vim"
+export VISUAL="vim"
 
 POWERLEVEL9K_STATUS_CROSS=true
 POWERLEVEL9K_STATUS_OK=false
